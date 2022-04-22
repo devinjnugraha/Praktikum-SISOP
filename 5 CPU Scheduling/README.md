@@ -1,6 +1,6 @@
 # CPU Scheduling
 
-#### Istilah Berbagai Time pada Fitur CPU Sceduling
+#### Istilah Berbagai Time pada Fitur CPU Scheduling
 
 - WT (Waiting Time) merupakan jumlah waktu sebuah proses berada di ready queue sebelum proses tersebut masuk ke running state. 
 
