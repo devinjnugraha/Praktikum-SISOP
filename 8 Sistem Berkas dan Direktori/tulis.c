@@ -9,7 +9,7 @@ int main()
     puts("Can't open that file!");
     exit(1);
     }
-    fprintf(fh, "Look what I made!n");
+    fprintf(fh, "Look what I made!\n");
     fclose(fh);
     return (0);
 }
