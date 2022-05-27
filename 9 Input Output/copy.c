@@ -9,7 +9,6 @@ int main(int argc, char* argv[]){
 	// then file foo.txt is created.
 	int fd = open(argv[1], O_RDWR);
 	printf("fd = %d\n", fd);
-	char s[50] = "Mencoba write di bahasa C";
 	char temp[100];
 	if (fd != -1){
 		read(fd, temp, 50);
