@@ -1,6 +1,7 @@
-n=1
+#!bin/bash
 
+i=1
 for dat in $(ls); do
-    echo “File ke $n adalah $dat”
-    n=$n+1
+    echo “File ke $i adalah $dat”
+    i=$(($i+1))
 done

@@ -2,5 +2,5 @@
 
 for i in $*
 do
-	echo "argumen $i"
+	echo "Argumen $i"
 done

@@ -10,5 +10,4 @@ while true; do
     fi
 done
 
-echo $n
-    
+echo $n 
